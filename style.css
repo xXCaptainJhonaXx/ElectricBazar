@@ -1,0 +1,23 @@
+div {
+    /* border: 1px solid gray;
+    padding: 2px; */
+}
+
+.rating-stars {
+    color: #fae73db5;
+}
+
+.product-item {
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 2rem;
+
+}
+
+.product-item img {
+    max-height: 190px;
+}
+
+.footer-items {
+    list-style: square;
+}
