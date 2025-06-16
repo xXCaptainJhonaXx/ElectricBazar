@@ -21,3 +21,9 @@ div {
 .footer-items {
     list-style: square;
 }
+
+.carousel-item img {
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 2rem;
+}
